@@ -1,0 +1,13 @@
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\bin\Debug\netcoreapp2.2\config.json
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\bin\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.deps.json
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\bin\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.dll
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\bin\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.pdb
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\bin\Debug\netcoreapp2.2\PartsUnlimited.Models.dll
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\bin\Debug\netcoreapp2.2\PartsUnlimited.Models.pdb
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.csprojAssemblyReference.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.csproj.CoreCompileInputs.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.AssemblyInfoInputs.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.AssemblyInfo.cs
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.csproj.CopyComplete
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.dll
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.UpdateProductInventory\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.UpdateProductInventory.pdb

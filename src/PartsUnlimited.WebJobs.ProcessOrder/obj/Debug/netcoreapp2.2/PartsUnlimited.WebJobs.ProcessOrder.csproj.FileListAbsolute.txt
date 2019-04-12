@@ -1,0 +1,13 @@
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\bin\Debug\netcoreapp2.2\config.json
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\bin\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.deps.json
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\bin\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.dll
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\bin\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.pdb
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\bin\Debug\netcoreapp2.2\PartsUnlimited.Models.dll
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\bin\Debug\netcoreapp2.2\PartsUnlimited.Models.pdb
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.csprojAssemblyReference.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.csproj.CoreCompileInputs.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.AssemblyInfoInputs.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.AssemblyInfo.cs
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.csproj.CopyComplete
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.dll
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.WebJobs.ProcessOrder\obj\Debug\netcoreapp2.2\PartsUnlimited.WebJobs.ProcessOrder.pdb

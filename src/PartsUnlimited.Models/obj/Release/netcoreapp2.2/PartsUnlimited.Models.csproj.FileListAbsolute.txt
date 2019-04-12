@@ -1,0 +1,12 @@
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\bin\Release\netcoreapp2.2\config.json
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\bin\Release\netcoreapp2.2\PartsUnlimited.Models.deps.json
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\bin\Release\netcoreapp2.2\PartsUnlimited.Models.runtimeconfig.json
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\bin\Release\netcoreapp2.2\PartsUnlimited.Models.runtimeconfig.dev.json
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\bin\Release\netcoreapp2.2\PartsUnlimited.Models.dll
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\bin\Release\netcoreapp2.2\PartsUnlimited.Models.pdb
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\obj\Release\netcoreapp2.2\PartsUnlimited.Models.csprojAssemblyReference.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\obj\Release\netcoreapp2.2\PartsUnlimited.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\obj\Release\netcoreapp2.2\PartsUnlimited.Models.AssemblyInfoInputs.cache
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\obj\Release\netcoreapp2.2\PartsUnlimited.Models.AssemblyInfo.cs
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\obj\Release\netcoreapp2.2\PartsUnlimited.Models.dll
+C:\Users\Lilit-PC\Source\Repos\partsunlimited\src\PartsUnlimited.Models\obj\Release\netcoreapp2.2\PartsUnlimited.Models.pdb

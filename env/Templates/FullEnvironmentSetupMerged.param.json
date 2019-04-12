@@ -1,0 +1,39 @@
+﻿{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "WebsiteName": {
+            "value": "pufesmenu12la"
+        },
+        "PartsUnlimitedServerName": {
+            "value": "puserverfesm12la"
+        },
+        "PartsUnlimitedHostingPlanName": {
+            "value": "puhostingplanfesm12la"
+        },
+        "CdnStorageAccountName": {
+            "value": "pustracc12la"
+        },
+        "CdnStorageContainerName": {
+            "value": "pustrcntr12la"
+        },
+        "CdnStorageAccountNameForDev": {
+            "value": "pustraccdev12la"
+        },
+        "CdnStorageContainerNameForDev": {
+            "value": "pustrcntrdev12la"
+        },
+        "CdnStorageAccountNameForStaging": {
+            "value": "pustraccstaging12la"
+        },
+        "CdnStorageContainerNameForStaging": {
+            "value": "pustrcntrstaging12la"
+        },
+        "PartsUnlimitedServerAdminLoginPassword": {
+            "value": "Pa$$w0rd01"
+        },
+        "PartsUnlimitedServerAdminLoginPasswordForTest": {
+            "value": "Pa$$w0rd01"
+        }
+    }
+}
